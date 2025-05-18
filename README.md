@@ -20,11 +20,14 @@ SETUP AND INSTALLATION INSTRUCTIONS
   9. Test Application - npm run test
 
 MEMBERS AND CONTRIBUTIONS
+
   Edjay Blasquino - Node.JS Setup, Coding, Deployment, Video Presentation
   Andre Jose Gerona - Coding, Video Presentation 
   Michaeljohn Ernacio - Coding, Video Presentation
   Jeramae Futol - Coding, Video Presentation
 
   DEPLOYED URL : https://dynamic-web-app-six.vercel.app/
+
+  
   LINK TO VIDEO PRESENTATION : https://drive.google.com/drive/folders/134ulHswVEj11gV2ohKrCo2x48oYM-GKq?usp=sharing
   
